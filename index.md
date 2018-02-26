@@ -32,7 +32,7 @@ pdf: true
 _项目负责人_<br>
 - 在[朴哲范](http://jrxy.zufe.edu.cn/info/2056/1211.htm)教授的指导下, 我作为小组负责人的身份以 __《私募股权对新三板市场的经济效应研究——以股转系统中浙江省数据为例》__ 为研究课题申请了国家级大学生创新训练项目并成功立项。目前后续的结题工作还在进行中。
 
-[[申报书](assets/#20160515【正式上交教育部最终版】申报书（打印版）.pdf)] [[认定书](assets/认定书底稿.jpg)] 
+- [[申报书](assets/#20160515【正式上交教育部最终版】申报书（打印版）.pdf)] [[认定书](assets/认定书底稿.jpg)] 
 ### __杭州英伯力投资__  `2016.7 - 2016.8`
 _实习生_<br>
 - 前往拟投资公司实地调研，对其财务报告进行评估。
@@ -52,12 +52,11 @@ _实习生_<br>
 ### __Stata__ `ZUFE, 2017` <br>
 - 大三上，本人在财税学院的[丁建福](http://cz.zufe.edu.cn/info/1077/5865.htm)老师的《计量经济学应用（含STATA）》的研究生课程中，学习了计量经济学的原理和stata的基础操作，并与另一同学合作做了两篇AER（分别关于教育收益率和产权与金融）的文献精读 （包括全文翻译、原文数据、实证结果复刻、presentation）。最后，该课程的期末作业是用我们小组找到的文献数据用stata去做结果复制。
 
-[[英文原文1](assets/2%20Returns%20to%20Educaiton%20Evidence%20from%20U.K.%20Twins.pdf)] [[全文翻译1](assets/教育收益：基于英国双胞胎数据.docx)] [[数据复刻1](assets/【复刻】代码%2B数据结果.docx)] [[整理](assets/文献综述.docx)]
-- [[英文原文2](assets/Property%20Rights%20and%20Finance.pdf)] [[全文翻译2](assets/【修订版】产权与融资.docx)] [[问卷数据](ebrd_que.pdf)] [[Slide](assets/产权与金融.pptx)]
+- [[英文原文1](assets/2%20Returns%20to%20Educaiton%20Evidence%20from%20U.K.%20Twins.pdf)] [[全文翻译1](assets/【翻译】教育收益_基于英国双胞胎数据.docx)] [[数据复刻1](assets/【复刻】代码%2B数据结果.pdf)] [[文献整理](assets/文献整理.pdf)]
+- [[英文原文2](assets/Property%20Rights%20and%20Finance.pdf)] [[全文翻译2](assets/【修订版】产权与融资.docx)] [[问卷数据](assets/ebrd_que.pdf)] [[Slide](assets/产权与金融.pdf)]
 ### __Excel__ `ZUFE, 2016` <br>
 - 大二下，本人在会计学院的[郭德贵](http://zjacc.zufe.edu.cn/info/1182/2588.htm)老师的《Excel在财会中的高级应用》课程中获得了96分的高分，基本掌握了vlookup等常用函数，也有少量的VBA编程。
 ### __Markdown__、__LaTex__（在学）`自学, 2017、2018` <br>
-
 
 
 
