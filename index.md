@@ -33,7 +33,7 @@ _项目负责人_<br>
 
 在[朴哲范](http://jrxy.zufe.edu.cn/info/2056/1211.htm)教授的指导下, 我作为小组负责人的身份以 __《私募股权对新三板市场的经济效应研究——以股转系统中浙江省数据为例》__ 为研究课题申请了国家级大学生创新训练项目并成功立项。目前后续的结题工作还在进行中。
 
-- [[申报书](assets/#20160515【正式上交教育部最终版】申报书（打印版）.pdf)] [[认定书](assets/认定书底稿.jpg)] 
+- [[申报书](assets/20160515【正式上交教育部最终版】申报书.pdf)] [[认定书](assets/认定书底稿.jpg)] 
 
 ### __杭州英伯力投资__  `2016.7 - 2016.8`
 _实习生_<br>
@@ -47,7 +47,6 @@ _实习生_<br>
 ## 技能
 
 ### __Python__ `ZUFE, 2017` <br>
-
 大三下，本人在信工学院外教[Christoph Schubert](https://www.linkedin.com/in/christophschubert/)的《Python Programming》课程中获得99分的高分，基本入门Python语言，初步掌握了jupyter notebook的操作以及熟悉了pandas、Scikit-Learn、NumPy、Matplotlib等python的数据分析包。
 
 - 
