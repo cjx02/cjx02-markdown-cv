@@ -21,7 +21,7 @@ pdf: true
 - 专业 金融工程（经济学学士学位）
 - 主修 GPA: __4.0__, 平均 GPA: __3.70__
 - 主要课程：金融学 统计学 投资学 随机过程 公司金融案例 金融工程原理 公司金融方法及应用
-- 兴趣领域：数据分析
+- 兴趣领域：数据挖掘 数据分析
 
 
 
@@ -62,7 +62,9 @@ _实习生_<br>
 - [[英文原文2](assets/Property%20Rights%20and%20Finance.pdf)] [[全文翻译2](assets/【修订版】产权与融资.docx)] [[问卷数据](assets/ebrd_que.pdf)] [[Slide](assets/产权与金融.pdf)]
 ### __Excel__ `ZUFE, 2016` <br>
 
-大二下，本人在会计学院的[郭德贵](http://zjacc.zufe.edu.cn/info/1182/2588.htm)老师的《Excel在财会中的高级应用》课程中获得了96分的高分，基本掌握了vlookup等常用函数，也有少量的VBA编程。
+大二下，本人在会计学院的[郭德贵](http://zjacc.zufe.edu.cn/info/1182/2588.htm)老师的《Excel在财会中的高级应用》课程中获得了96分的高分，基本掌握了vlookup、index+match等常用函数，也有少量的VBA编程。
+
+- [excel处理文件 [XLSM](assets/样本相关数据（20141001-20160414）.xlsm)] [相关论文 [PDF](assets/上市公司股票简称更改效应研究%20.pdf)]
 ### __Markdown__、__LaTex__（在学）`自学, 2017、2018` <br>
 
 
