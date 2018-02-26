@@ -53,6 +53,9 @@ _实习生_<br>
 [[成绩公示](assets/成绩公示.png)] [报告中文版 [html](assets/【定稿】机器学习中特征工程在中国股票市场的应用——基于沪深300指数日度数据.html)]
 ### __Stata__ `ZUFE, 2017` <br>
   大三上，本人在财税学院的[丁建福](http://cz.zufe.edu.cn/info/1077/5865.htm)老师的《计量经济学应用（含STATA）》的研究生课程中，学习了计量经济学的原理和stata的基础操作，并与另一同学合作做了两篇AER（分别关于教育收益率和产权与金融）的文献精读 （包括全文翻译、原文数据、实证结果复刻、presentation）。最后，该课程的期末作业是用我们小组找到的文献数据用stata去做结果复制。
+
+[[英文原文1](assets/2%20Returns%20to%20Educaiton%20Evidence%20from%20U.K.%20Twins.pdf)] [[全文翻译1](assets/教育收益：基于英国双胞胎数据.docx)] [[数据复刻1](assets/【复刻】代码%2B数据结果.docx)] [[整理](assets/文献综述.docx)]
+[[英文原文2](assets/Property%20Rights%20and%20Finance.pdf)] [[全文翻译2](assets/【修订版】产权与融资.docx)] [[问卷数据](ebrd_que.pdf)] [[Slide](assets/产权与金融.pptx)]
 ### __Excel__ `ZUFE, 2016` <br>
   大二下，本人在会计学院的[郭德贵](http://zjacc.zufe.edu.cn/info/1182/2588.htm)老师的《Excel在财会中的高级应用》课程中获得了96分的高分，基本掌握了vlookup等常用函数，也有少量的VBA编程。
 ### __Markdown__、__LaTex__
