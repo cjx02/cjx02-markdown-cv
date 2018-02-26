@@ -47,8 +47,7 @@ _实习生_<br>
 ## 技能
 
 ### __Python__ `ZUFE, 2017` <br>
-
-大三下，本人在信工学院外教[Christoph Schubert](https://www.linkedin.com/in/christophschubert/)的《Python Programming》课程中获得99分的高分，基本入门Python语言，初步掌握了jupyter notebook的操作以及熟悉了pandas、Scikit-Learn、NumPy、Matplotlib等python的数据分析包。- 
+大三下，本人在信工学院外教[Christoph Schubert](https://www.linkedin.com/in/christophschubert/)的《Python Programming》课程中获得99分的高分，基本入门Python语言，初步掌握了jupyter notebook的操作以及熟悉了pandas、Scikit-Learn、NumPy、Matplotlib等python的数据分析包。-
 
 -
 
