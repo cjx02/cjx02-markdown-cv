@@ -49,7 +49,7 @@ _实习生_<br>
 ### __Python__ `ZUFE, 2017` <br>
 大三下，本人在信工学院外教[Christoph Schubert](https://www.linkedin.com/in/christophschubert/)(现已离职，赴德国一家管理咨询公司任职)的《Python Programming》课程中获得99分的高分，基本入门Python语言，初步掌握了jupyter notebook的操作以及熟悉了pandas、Scikit-Learn、NumPy、Matplotlib等python的数据分析包。
 
--
+
 
 同时在该学期信工学院[张文宇](http://info.zufe.edu.cn/info/1049/5085.htm)老师《数据挖掘技术与应用（英）》研究生课程中的final project，本人应用了所学的python知识，最终英语报告得分95分，该分数高于当时所有参加课程的研究生。
 
