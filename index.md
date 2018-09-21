@@ -12,7 +12,7 @@ pdf: true
 <a href="cjx02@outlook.com" style="margin-left:0.5em">cjx02@shisu.edu.cn</a>
 </div>
 
-## 教育-本科
+## 教育--本科
 
 ### __浙江财经大学__ `2014.9 - 2018.6`
 ```
