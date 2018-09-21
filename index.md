@@ -12,8 +12,12 @@ pdf: true
 <a href="cjx02@outlook.com" style="margin-left:0.5em">cjx02@shisu.edu.cn</a>
 </div>
 
-## 教育--本科
-
+## 教育
+### __上海外国语大学__ `2018.9 - present`
+```
+虹口, 上海
+```
+- 专业 金融（经济学学士学位）
 ### __浙江财经大学__ `2014.9 - 2018.6`
 ```
 杭州, 浙江
